@@ -1,4 +1,4 @@
-module h2loadGo
+module github.com/galbarnahum/h2loadGo
 
 go 1.23.0
 
